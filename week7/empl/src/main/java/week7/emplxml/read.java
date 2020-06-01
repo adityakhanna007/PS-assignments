@@ -1,4 +1,4 @@
-package week7.empl;
+package week7.emplxml;
 
 import java.util.Scanner;
 
